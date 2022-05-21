@@ -1,0 +1,20 @@
+
+@import url("components/container.css");
+@import url("components/Button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+h1,h2,h3{
+
+	font-family: 'Poppins', sans-serif;
+	font-weight: bold;
+}
+
+
+body{
+	color: black;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 'regular';
+
+}
+
